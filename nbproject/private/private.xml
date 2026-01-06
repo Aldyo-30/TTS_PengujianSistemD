@@ -3,24 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/F:/coding/Java/TR_PBO_testing/src/latihan/jdbc/controller/UserController.java</file>
-            <file>file:/F:/coding/Java/TR_PBO_testing/src/latihan/jdbc/model/User.java</file>
-            <file>file:/F:/coding/Java/TR_PBO_testing/test/README.md</file>
-            <file>file:/F:/coding/Java/TR_PBO_testing/test/latihan/jdbc/controller/UserControllerTest.java</file>
-            <file>file:/F:/coding/Java/TR_PBO_testing/test/latihan/jdbc/controller/KoneksiTest.java</file>
-            <file>file:/F:/coding/Java/TR_PBO_testing/test/latihan/jdbc/model/AdminTest.java</file>
-            <file>file:/F:/coding/Java/TR_PBO_testing/test/latihan/jdbc/model/KaryawanTest.java</file>
-            <file>file:/F:/coding/Java/TR_PBO_testing/src/latihan/jdbc/view/Dashboard.java</file>
-            <file>file:/F:/coding/Java/TR_PBO_testing/src/latihan/jdbc/view/DA.java</file>
-            <file>file:/F:/coding/Java/TR_PBO_testing/src/latihan/jdbc/controller/LoginController.java</file>
-            <file>file:/F:/coding/Java/TR_PBO_testing/src/latihan/jdbc/controller/Koneksi.java</file>
-            <file>file:/F:/coding/Java/TR_PBO_testing/test/latihan/jdbc/model/UserTest.java</file>
             <file>file:/F:/coding/Java/TR_PBO_testing/src/latihan/jdbc/view/DashboardUser.java</file>
-            <file>file:/F:/coding/Java/TR_PBO_testing/src/latihan/jdbc/model/Karyawan.java</file>
+            <file>file:/F:/coding/Java/TR_PBO_testing/src/latihan/jdbc/view/FormLogin.java</file>
             <file>file:/F:/coding/Java/TR_PBO_testing/test/latihan/jdbc/AllTests.java</file>
+            <file>file:/F:/coding/Java/TR_PBO_testing/src/latihan/jdbc/view/Dashboard.java</file>
             <file>file:/F:/coding/Java/TR_PBO_testing/test/latihan/jdbc/controller/AdminControllerTest.java</file>
-            <file>file:/F:/coding/Java/TR_PBO_testing/src/latihan/jdbc/model/Admin.java</file>
-            <file>file:/F:/coding/Java/TR_PBO_testing/src/latihan/jdbc/controller/AdminController.java</file>
+            <file>file:/F:/coding/Java/TR_PBO_testing/src/latihan/jdbc/view/FormSignUp.java</file>
+            <file>file:/F:/coding/Java/TR_PBO_testing/src/latihan/jdbc/view/DA.java</file>
         </group>
     </open-files>
 </project-private>
